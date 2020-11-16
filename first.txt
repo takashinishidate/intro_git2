@@ -1,2 +1,4 @@
 gitを学ぶ
 基本やる
+git add
+git commit
